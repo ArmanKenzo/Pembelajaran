@@ -1,2 +1,2 @@
 # Pembelajaran
-Ini adalah bahan pembelajaran
+Ini adalah bahan praktek
